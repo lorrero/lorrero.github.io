@@ -3,11 +3,11 @@
   <title>Lorrero&#39;s BLOG</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lorrero.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://lorrero.github.io/"/>
   <updated>2024-01-21T13:22:10.499Z</updated>
-  <id>http://example.com/</id>
+  <id>https://lorrero.github.io/</id>
   
   <author>
     <name>Lorrero</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2024/01/21/test/"/>
-    <id>http://example.com/2024/01/21/test/</id>
+    <link href="https://lorrero.github.io/2024/01/21/test/"/>
+    <id>https://lorrero.github.io/2024/01/21/test/</id>
     <published>2024-01-21T11:49:31.000Z</published>
     <updated>2024-01-21T13:22:10.499Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/01/21/hello-world/"/>
-    <id>http://example.com/2024/01/21/hello-world/</id>
+    <link href="https://lorrero.github.io/2024/01/21/hello-world/"/>
+    <id>https://lorrero.github.io/2024/01/21/hello-world/</id>
     <published>2024-01-21T10:19:29.817Z</published>
     <updated>2024-01-21T10:19:29.817Z</updated>
     

@@ -1,5 +1,5 @@
-http://example.com/2024/01/21/test/
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/2024/01/21/hello-world/
-http://example.com/
+https://lorrero.github.io/2024/01/21/test/
+https://lorrero.github.io/categories/index.html
+https://lorrero.github.io/tags/index.html
+https://lorrero.github.io/2024/01/21/hello-world/
+https://lorrero.github.io/
