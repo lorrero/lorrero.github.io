@@ -34,7 +34,7 @@
     <link href="https://lorrero.github.io/2024/01/27/config/"/>
     <id>https://lorrero.github.io/2024/01/27/config/</id>
     <published>2024-01-27T07:53:56.583Z</published>
-    <updated>2024-01-27T08:05:50.493Z</updated>
+    <updated>2024-01-27T08:09:42.712Z</updated>
     
     <content type="html"><![CDATA[<p><code>Mysql</code> 配置</p><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"># Mysql数据库驱动  </span><br><span class="line">jdbc.driver<span class="operator">=</span> com.mysql.cj.jdbc.Driver  </span><br><span class="line"># Mysql URL  </span><br><span class="line">jdbc.url<span class="operator">=</span> jdbc:mysql:<span class="operator">/</span><span class="operator">/</span><span class="number">127.0</span><span class="number">.0</span><span class="number">.1</span>:<span class="number">3306</span><span class="operator">/</span>mybatis?useUnicode<span class="operator">=</span><span class="literal">true</span><span class="operator">&amp;</span>characterEncoding<span class="operator">=</span>UTF<span class="number">-8</span><span class="operator">&amp;</span>serverTimezone<span class="operator">=</span>Asia<span class="operator">/</span>Shanghai<span class="operator">&amp;</span>useSSL<span class="operator">=</span><span class="literal">false</span><span class="operator">&amp;</span>allowPublicKeyRetrieval<span class="operator">=</span><span class="literal">true</span></span><br></pre></td></tr></table></figure><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?xml version=<span class="string">&quot;1.0&quot;</span> encoding=<span class="string">&quot;UTF-8&quot;</span> ?&gt;</span></span><br><span class="line"><span class="meta">&lt;!DOCTYPE <span class="keyword">mapper</span></span></span><br><span class="line"><span class="meta">  <span class="keyword">PUBLIC</span> <span class="string">&quot;-//mybatis.org//DTD Mapper 3.0//EN&quot;</span></span></span><br><span class="line"><span class="meta">  <span class="string">&quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">mapper</span> <span class="attr">namespace</span>=<span class="string">&quot;org.mybatis.example.BlogMapper&quot;</span>&gt;</span></span><br><span class="line">  <span class="tag">&lt;<span class="name">select</span> <span class="attr">id</span>=<span class="string">&quot;selectBlog&quot;</span> <span class="attr">resultType</span>=<span class="string">&quot;Blog&quot;</span>&gt;</span></span><br><span class="line">    select * from Blog where id = #&#123;id&#125;</span><br><span class="line">  <span class="tag">&lt;/<span class="name">select</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">mapper</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
     
@@ -47,10 +47,6 @@
     
     
     
-    <category term="config" scheme="https://lorrero.github.io/categories/config/"/>
-    
-    
-    <category term="java" scheme="https://lorrero.github.io/tags/java/"/>
     
   </entry>
   
