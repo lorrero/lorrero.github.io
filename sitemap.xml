@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lorrero.github.io/project/note/config/</loc>
+    <loc>https://lorrero.github.io/notes/config/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/project/note/test/</loc>
+    <loc>https://lorrero.github.io/notes/test/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/project/template/html-template.html</loc>
+    <loc>https://lorrero.github.io/template/html-template.html</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/project/note/hello-world/</loc>
+    <loc>https://lorrero.github.io/notes/hello-world/</loc>
     
     <lastmod>2024-01-27</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/project/categories/index.html</loc>
+    <loc>https://lorrero.github.io/categories/index.html</loc>
     
     <lastmod>2024-01-21</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/project/tags/index.html</loc>
+    <loc>https://lorrero.github.io/tags/index.html</loc>
     
     <lastmod>2024-01-21</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>https://lorrero.github.io/project</loc>
+    <loc>https://lorrero.github.io/</loc>
     <lastmod>2024-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>https://lorrero.github.io/project/tags/java/</loc>
+    <loc>https://lorrero.github.io/tags/java/</loc>
     <lastmod>2024-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -74,14 +74,14 @@
 
   
   <url>
-    <loc>https://lorrero.github.io/project/categories/java/</loc>
+    <loc>https://lorrero.github.io/categories/java/</loc>
     <lastmod>2024-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/project/categories/java/spring/</loc>
+    <loc>https://lorrero.github.io/categories/java/spring/</loc>
     <lastmod>2024-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
