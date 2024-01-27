@@ -3,11 +3,11 @@
   <title>Lorrero&#39;s BLOG</title>
   
   
-  <link href="https://lorrero.github.io/notes/atom.xml" rel="self"/>
+  <link href="https://lorrero.github.io/atom.xml" rel="self"/>
   
-  <link href="https://lorrero.github.io/notes/"/>
+  <link href="https://lorrero.github.io/"/>
   <updated>2024-01-27T08:30:16.698Z</updated>
-  <id>https://lorrero.github.io/notes/</id>
+  <id>https://lorrero.github.io/</id>
   
   <author>
     <name>Lorrero</name>
@@ -34,12 +34,12 @@
     
     
     
-    <category term="java" scheme="https://lorrero.github.io/notes/categories/java/"/>
+    <category term="java" scheme="https://lorrero.github.io/categories/java/"/>
     
-    <category term="spring" scheme="https://lorrero.github.io/notes/categories/java/spring/"/>
+    <category term="spring" scheme="https://lorrero.github.io/categories/java/spring/"/>
     
     
-    <category term="java" scheme="https://lorrero.github.io/notes/tags/java/"/>
+    <category term="java" scheme="https://lorrero.github.io/tags/java/"/>
     
   </entry>
   
@@ -53,9 +53,9 @@
     
     
     
-    <category term="java" scheme="https://lorrero.github.io/notes/categories/java/"/>
+    <category term="java" scheme="https://lorrero.github.io/categories/java/"/>
     
-    <category term="spring" scheme="https://lorrero.github.io/notes/categories/java/spring/"/>
+    <category term="spring" scheme="https://lorrero.github.io/categories/java/spring/"/>
     
     
   </entry>
