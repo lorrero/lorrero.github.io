@@ -1,6 +1,6 @@
-https://lorrero.github.io/config/
+https://lorrero.github.io/notes/config/
 https://lorrero.github.io/template/html-template.html
-https://lorrero.github.io/hello-world/
+https://lorrero.github.io/notes/hello-world/
 https://lorrero.github.io/categories/index.html
 https://lorrero.github.io/tags/index.html
 https://lorrero.github.io/
