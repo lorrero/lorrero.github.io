@@ -1,7 +1,7 @@
-https://lorrero.github.io/notes/2024/01/27/config/
-https://lorrero.github.io/notes/2024/01/21/test/
+https://lorrero.github.io/notes/config/
+https://lorrero.github.io/notes/test/
 https://lorrero.github.io/notes/template/html-template.html
-https://lorrero.github.io/notes/2024/01/21/hello-world/
+https://lorrero.github.io/notes/hello-world/
 https://lorrero.github.io/notes/categories/index.html
 https://lorrero.github.io/notes/tags/index.html
 https://lorrero.github.io/notes
