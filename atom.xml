@@ -3,11 +3,11 @@
   <title>Lorrero&#39;s BLOG</title>
   
   
-  <link href="https://github.com/lorrero/lorrero.github.io/atom.xml" rel="self"/>
+  <link href="https://lorrero.github.io/project/atom.xml" rel="self"/>
   
-  <link href="https://github.com/lorrero/lorrero.github.io/"/>
+  <link href="https://lorrero.github.io/project/"/>
   <updated>2024-01-27T08:30:16.698Z</updated>
-  <id>https://github.com/lorrero/lorrero.github.io/</id>
+  <id>https://lorrero.github.io/project/</id>
   
   <author>
     <name>Lorrero</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>{{</title>
-    <link href="https://github.com/lorrero/lorrero.github.io/notes/config/"/>
-    <id>https://github.com/lorrero/lorrero.github.io/notes/config/</id>
+    <link href="https://lorrero.github.io/project/note/config/"/>
+    <id>https://lorrero.github.io/project/note/config/</id>
     <published>2024-01-27T07:53:56.583Z</published>
     <updated>2024-01-27T08:30:16.698Z</updated>
     
@@ -34,36 +34,36 @@
     
     
     
-    <category term="java" scheme="https://github.com/lorrero/lorrero.github.io/categories/java/"/>
+    <category term="java" scheme="https://lorrero.github.io/project/categories/java/"/>
     
-    <category term="spring" scheme="https://github.com/lorrero/lorrero.github.io/categories/java/spring/"/>
+    <category term="spring" scheme="https://lorrero.github.io/project/categories/java/spring/"/>
     
     
-    <category term="java" scheme="https://github.com/lorrero/lorrero.github.io/tags/java/"/>
+    <category term="java" scheme="https://lorrero.github.io/project/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>test</title>
-    <link href="https://github.com/lorrero/lorrero.github.io/notes/test/"/>
-    <id>https://github.com/lorrero/lorrero.github.io/notes/test/</id>
+    <link href="https://lorrero.github.io/project/note/test/"/>
+    <id>https://lorrero.github.io/project/note/test/</id>
     <published>2024-01-21T11:49:31.000Z</published>
     <updated>2024-01-27T08:28:38.319Z</updated>
     
     
     
     
-    <category term="java" scheme="https://github.com/lorrero/lorrero.github.io/categories/java/"/>
+    <category term="java" scheme="https://lorrero.github.io/project/categories/java/"/>
     
-    <category term="spring" scheme="https://github.com/lorrero/lorrero.github.io/categories/java/spring/"/>
+    <category term="spring" scheme="https://lorrero.github.io/project/categories/java/spring/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/lorrero/lorrero.github.io/notes/hello-world/"/>
-    <id>https://github.com/lorrero/lorrero.github.io/notes/hello-world/</id>
+    <link href="https://lorrero.github.io/project/note/hello-world/"/>
+    <id>https://lorrero.github.io/project/note/hello-world/</id>
     <published>2024-01-21T10:19:29.817Z</published>
     <updated>2024-01-27T07:53:18.369Z</updated>
     
