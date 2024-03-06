@@ -65,28 +65,7 @@
 
   
   <url>
-    <loc>https://lorrero.github.io/tags/java/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lorrero.github.io/tags/Redis/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/tags/JAVA/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/tags/Java/</loc>
     <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -102,41 +81,6 @@
 
   
   <url>
-    <loc>https://lorrero.github.io/categories/java/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/categories/java/config/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/categories/Java-Config/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/categories/java/config/test/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/categories/java/Redis/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lorrero.github.io/categories/Redis/</loc>
     <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -144,28 +88,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/categories/config/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/categories/java/Config/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lorrero.github.io/categories/Java/</loc>
-    <lastmod>2024-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lorrero.github.io/categories/Java/config/</loc>
     <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

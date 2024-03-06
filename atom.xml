@@ -6,7 +6,7 @@
   <link href="https://lorrero.github.io/atom.xml" rel="self"/>
   
   <link href="https://lorrero.github.io/"/>
-  <updated>2024-03-06T08:28:18.004Z</updated>
+  <updated>2024-03-06T08:39:14.941Z</updated>
   <id>https://lorrero.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://lorrero.github.io/notes/BloomFilter/"/>
     <id>https://lorrero.github.io/notes/BloomFilter/</id>
     <published>2024-03-06T08:10:34.369Z</published>
-    <updated>2024-03-06T08:28:18.004Z</updated>
+    <updated>2024-03-06T08:39:14.941Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p><strong>参考链接：</strong><br><a href="https://systemdesign.one/bloom-filters-explained/#what-is-a-bloomfilter">https://systemdesign.one/bloom-filters-explained/#what-is-a-bloomfilter</a></p></blockquote><h1 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h1><ul><li>节省空间的概率数据结构</li><li>查询返回 可能在集合中 或 绝对不再集合中</li><li>添加的项目越多，误报概率越大</li></ul><h2 id="布隆过滤器是如何工作的"><a href="#布隆过滤器是如何工作的" class="headerlink" title="布隆过滤器是如何工作的"></a>布隆过滤器是如何工作的</h2><ol><li>初始化：一个长度为m位的数组，将所有位都设为0<br><img src="https://pictures-1311786915.cos.ap-shanghai.myqcloud.com/obsidian/20240305153221.png" alt="image.png"></li><li>添加元素：将元素通过多个哈希函数映射到位数组中的多个位置，并设置值位1<br><img src="https://pictures-1311786915.cos.ap-shanghai.myqcloud.com/obsidian/20240305153303.png" alt="image.png"></li><li>查询元素：通过相同的哈希函数映射到位数组的相应位置，检查值是否为1，如果有一个为0，返回一定不存在集合中，如果所有位置都为1，则可能存在于集合中</li></ol><h1 id="误报"><a href="#误报" class="headerlink" title="误报"></a>误报</h1><p><img src="https://pictures-1311786915.cos.ap-shanghai.myqcloud.com/obsidian/20240305153707.png" alt="image.png"></p><h1 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h1><ul><li>时间，空间复杂度都为<code>O(1)</code></li><li>可以同时对布隆过滤器执行多个操作而不会影响操作的正确性或性能</li><li>不会产生误判为<code>不存在</code>的情况</li><li>元素并不是以明文形式存储的，而是通过哈希函数转换为位数组中的索引位置</li></ul><h1 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h1><ul><li>不支持删除操作</li><li>误报率无法降至零</li></ul><h1 id="使用流程"><a href="#使用流程" class="headerlink" title="使用流程"></a>使用流程</h1><p><img src="https://pictures-1311786915.cos.ap-shanghai.myqcloud.com/obsidian/20240305153152.png" alt="image.png"></p>]]></content>
     
@@ -38,8 +38,6 @@
     
     
     <category term="Redis" scheme="https://lorrero.github.io/tags/Redis/"/>
-    
-    <category term="#Java" scheme="https://lorrero.github.io/tags/Java/"/>
     
   </entry>
   
