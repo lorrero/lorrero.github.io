@@ -5,3 +5,5 @@ https://lorrero.github.io/categories/index.html
 https://lorrero.github.io/tags/index.html
 https://lorrero.github.io/
 https://lorrero.github.io/tags/java/
+https://lorrero.github.io/categories/java/
+https://lorrero.github.io/categories/java/config/
