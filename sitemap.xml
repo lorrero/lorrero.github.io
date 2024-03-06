@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lorrero.github.io/template/html-template.html</loc>
+    <loc>https://lorrero.github.io/notes/config/</loc>
     
     <lastmod>2024-03-06</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/notes/config/</loc>
+    <loc>https://lorrero.github.io/template/html-template.html</loc>
     
     <lastmod>2024-03-06</lastmod>
     
@@ -88,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/categories/Java/</loc>
+    <loc>https://lorrero.github.io/categories/java/</loc>
     <lastmod>2024-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
