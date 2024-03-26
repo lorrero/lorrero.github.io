@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://lorrero.github.io/notes/Nvim/</loc>
+    
+    <lastmod>2024-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lorrero.github.io/template/html-template.html</loc>
     
     <lastmod>2024-03-06</lastmod>
@@ -65,14 +74,21 @@
 
   
   <url>
-    <loc>https://lorrero.github.io/tags/Redis/</loc>
+    <loc>https://lorrero.github.io/tags/Java/</loc>
     <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/tags/Java/</loc>
+    <loc>https://lorrero.github.io/tags/Vim/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lorrero.github.io/tags/Redis/</loc>
     <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -81,14 +97,21 @@
 
   
   <url>
-    <loc>https://lorrero.github.io/categories/Redis/</loc>
+    <loc>https://lorrero.github.io/categories/java/</loc>
     <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lorrero.github.io/categories/java/</loc>
+    <loc>https://lorrero.github.io/categories/Vim/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lorrero.github.io/categories/Redis/</loc>
     <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

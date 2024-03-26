@@ -1,11 +1,14 @@
 https://lorrero.github.io/notes/config/
+https://lorrero.github.io/notes/Nvim/
 https://lorrero.github.io/template/html-template.html
 https://lorrero.github.io/notes/BloomFilter/
 https://lorrero.github.io/notes/hello-world/
 https://lorrero.github.io/categories/index.html
 https://lorrero.github.io/tags/index.html
 https://lorrero.github.io/
-https://lorrero.github.io/tags/Redis/
 https://lorrero.github.io/tags/Java/
-https://lorrero.github.io/categories/Redis/
+https://lorrero.github.io/tags/Vim/
+https://lorrero.github.io/tags/Redis/
 https://lorrero.github.io/categories/java/
+https://lorrero.github.io/categories/Vim/
+https://lorrero.github.io/categories/Redis/
